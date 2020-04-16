@@ -1,0 +1,13 @@
+2019-10-31 19:13:56 [INFO] pandownload version: 2.1.3
+2019-10-31 19:13:58 [INFO] aria2 websocket connection opened (127.0.0.1:36821)
+2019-10-31 19:13:58 [INFO] aria2 version: 1.34.0
+2019-10-31 19:13:58 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36821/jsonrpc
+2019-10-31 19:13:58 [INFO] create main window
+2019-10-31 19:13:58 [INFO] verify cookie (635)
+2019-10-31 19:14:00 [INFO] user login success (3694736204): 满载的菠萝
+2019-10-31 19:18:15 [WARN] ID#1 - Network problem has occurred. cause:A socket operation was attempted to an unreachable host.
+(1) FILE="D:/BaiduNetdiskDownload/【黄记】(Futaket 15) [Muigarou] 楽しい「どきどき」通学オ〇ニー.zip" SIZE="57514869"
+2019-10-31 19:18:16 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="D:/BaiduNetdiskDownload/【黄记】(Futaket 15) [Muigarou] 楽しい「どきどき」通学オ〇ニー.zip" SIZE="57514869"
+2019-10-31 19:18:17 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="D:/BaiduNetdiskDownload/【黄记】(Futaket 15) [Muigarou] 楽しい「どきどき」通学オ〇ニー.zip" SIZE="57514869"
+2019-10-31 19:18:22 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="D:/BaiduNetdiskDownload/【黄记】(Futaket 15) [Muigarou] 楽しい「どきどき」通学オ〇ニー.zip" SIZE="57514869"
+2019-10-31 19:18:23 [WARN] ID#1 - The response status is not successful. status=403(22) FILE="D:/BaiduNetdiskDownload/【黄记】(Futaket 15) [Muigarou] 楽しい「どきどき」通学オ〇ニー.zip" SIZE="57514869"

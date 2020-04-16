@@ -1,0 +1,20 @@
+2019-07-29 09:55:34 [INFO] pandownload version: 2.1.2
+2019-07-29 09:55:36 [INFO] aria2 websocket connection opened (127.0.0.1:36906)
+2019-07-29 09:55:36 [INFO] aria2 version: 1.34.0
+2019-07-29 09:55:36 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36906/jsonrpc
+2019-07-29 09:55:36 [INFO] create main window
+2019-07-29 09:55:37 [INFO] verify cookie (636)
+2019-07-29 09:55:40 [INFO] user login success (3694736204): 满载的菠萝
+2019-07-29 09:55:40 [WARN] ID#1 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/【Avi-001】人妻素人摄影.rar" SIZE="4317296538"
+2019-07-29 09:55:40 [WARN] ID#2 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/艾丽尼亚の大冒险.zip" SIZE="151297699"
+2019-07-29 09:55:40 [WARN] ID#3 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/爱丽丝梦游仙境.zip" SIZE="79852542"
+2019-07-29 09:55:40 [WARN] ID#1 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/【Avi-001】人妻素人摄影.rar" SIZE="4317296538"
+2019-07-29 09:55:40 [WARN] ID#2 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/艾丽尼亚の大冒险.zip" SIZE="151297699"
+2019-07-29 09:55:40 [WARN] ID#3 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/爱丽丝梦游仙境.zip" SIZE="79852542"
+2019-07-29 09:55:41 [WARN] ID#1 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/【Avi-001】人妻素人摄影.rar" SIZE="4317296538"
+2019-07-29 09:55:41 [WARN] ID#2 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/艾丽尼亚の大冒险.zip" SIZE="151297699"
+2019-07-29 09:55:41 [WARN] ID#3 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/爱丽丝梦游仙境.zip" SIZE="79852542"
+2019-07-29 10:01:02 [INFO] close main window
+2019-07-29 10:01:02 [WARN] aria2 websocket connection closed (127.0.0.1:36906), code: 1000 (Normal close), reason: aria2 shutdown
+2019-07-29 10:01:03 [INFO] websocket client stop
+2019-07-29 10:01:03 [INFO] exit

@@ -1,0 +1,31 @@
+2019-08-11 11:32:42 [INFO] pandownload version: 2.1.2
+2019-08-11 11:32:45 [INFO] aria2 websocket connection opened (127.0.0.1:36866)
+2019-08-11 11:32:45 [INFO] aria2 version: 1.34.0
+2019-08-11 11:32:45 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36866/jsonrpc
+2019-08-11 11:32:45 [INFO] create main window
+2019-08-11 11:32:45 [INFO] verify cookie (637)
+2019-08-11 11:32:47 [INFO] user login success (3694736204): 满载的菠萝
+2019-08-11 11:44:29 [WARN] ID#1 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/(同人ゲーム) [181026][Chairi] A1 (Guilty Hell) (files).rar" SIZE="4370661852"
+2019-08-11 11:49:57 [WARN] ID#1 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/(同人ゲーム) [181026][Chairi] A1 (Guilty Hell) (files).rar" SIZE="4370661852"
+2019-08-11 11:56:30 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":5160345920703693138}
+2019-08-11 12:00:09 [WARN] ID#1 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/(同人ゲーム) [181026][Chairi] A1 (Guilty Hell) (files).rar" SIZE="4370661852"
+2019-08-11 13:24:28 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-08-11 13:34:15 [WARN] request error (0x200000070): https://pan.baidu.com/api/sharedownload {"errno":112,"request_id":5161921298431908457,"server_time":1565501655}
+2019-08-11 14:00:45 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":5162347055773849803}
+2019-08-11 14:03:34 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":5162392451685923092}
+2019-08-11 15:04:08 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":5163368158713647328}
+2019-08-11 15:44:18 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":5164015255933369809}
+2019-08-11 16:05:52 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2019-08-11 16:08:00 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":5164396799081530928}
+2019-08-11 16:18:19 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":5164563051730887571}
+2019-08-11 19:15:53 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":5167422857826011673}
+2019-08-11 19:38:55 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":5167793886827783387}
+2019-08-11 20:13:26 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":5168349707704934048}
+2019-08-11 21:24:39 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":5169496766019523626}
+2019-08-11 22:57:02 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":5170984872572022914}
+2019-08-11 23:32:04 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-08-11 23:32:24 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-08-11 23:32:44 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-08-11 23:33:04 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-08-11 23:33:24 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-08-11 23:33:44 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 

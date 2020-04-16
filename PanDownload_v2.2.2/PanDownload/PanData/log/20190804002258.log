@@ -1,0 +1,24 @@
+2019-08-04 00:22:58 [INFO] pandownload version: 2.1.2
+2019-08-04 00:23:11 [INFO] aria2 websocket connection opened (127.0.0.1:36884)
+2019-08-04 00:23:11 [INFO] aria2 version: 1.34.0
+2019-08-04 00:23:11 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36884/jsonrpc
+2019-08-04 00:23:11 [INFO] create main window
+2019-08-04 00:24:37 [INFO] verify cookie (637)
+2019-08-04 00:24:39 [INFO] user login success (3694736204): 满载的菠萝
+2019-08-04 00:28:12 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-08-04 00:29:46 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-08-04 00:59:49 [WARN] ID#20 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/12-厕所清洁.rar" SIZE="273784083"
+2019-08-04 01:00:13 [WARN] ID#19 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/13-JY检查.rar" SIZE="293366858"
+2019-08-04 01:04:49 [WARN] ID#19 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/13-JY检查.rar" SIZE="293366858"
+2019-08-04 01:05:58 [WARN] ID#20 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/12-厕所清洁.rar" SIZE="273784083"
+2019-08-04 01:09:18 [WARN] ID#19 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/13-JY检查.rar" SIZE="293366858"
+2019-08-04 01:10:32 [WARN] ID#20 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/12-厕所清洁.rar" SIZE="273784083"
+2019-08-04 01:14:54 [WARN] ID#21 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/11-披萨外卖.rar" SIZE="334033215"
+2019-08-04 01:17:06 [WARN] ID#22 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/10-衫本女医.rar" SIZE="188609994"
+2019-08-04 01:21:12 [WARN] ID#22 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/10-衫本女医.rar" SIZE="188609994"
+2019-08-04 01:22:54 [WARN] ID#21 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/11-披萨外卖.rar" SIZE="334033215"
+2019-08-04 01:25:31 [WARN] ID#22 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/10-衫本女医.rar" SIZE="188609994"
+2019-08-04 01:27:23 [WARN] ID#21 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/11-披萨外卖.rar" SIZE="334033215"
+2019-08-04 01:34:42 [WARN] ID#23 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/1-彩.rar" SIZE="15374283"
+2019-08-04 01:42:56 [WARN] ID#23 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/1-彩.rar" SIZE="15374283"
+2019-08-04 02:37:53 [WARN] aria2 websocket connection closed (127.0.0.1:36884), code: 1006 (Abnormal close), reason: 

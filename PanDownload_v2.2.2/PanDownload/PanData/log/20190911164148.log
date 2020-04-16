@@ -1,0 +1,111 @@
+2019-09-11 16:41:49 [INFO] pandownload version: 2.1.3
+2019-09-11 16:41:50 [INFO] aria2 websocket connection opened (127.0.0.1:36869)
+2019-09-11 16:41:50 [INFO] aria2 version: 1.34.0
+2019-09-11 16:41:50 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36869/jsonrpc
+2019-09-11 16:41:50 [INFO] create main window
+2019-09-11 16:41:50 [INFO] verify cookie (637)
+2019-09-11 16:41:53 [INFO] user login success (3694736204): 满载的菠萝
+2019-09-11 16:48:39 [WARN] ID#2 - No URI available.(24) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part08.rar" SIZE="1048576000"
+2019-09-11 16:54:53 [WARN] ID#5 - No URI available.(24) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part05.rar" SIZE="1048576000"
+2019-09-11 16:55:12 [WARN] ID#2 - No URI available.(24) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part08.rar" SIZE="1048576000"
+2019-09-11 18:14:09 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 18:14:59 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 18:15:49 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 18:17:38 [WARN] ID#7 - Timeout.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part03.rar" SIZE="1048576000"
+2019-09-11 18:17:39 [WARN] ID#8 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part02.rar" SIZE="1048576000"
+2019-09-11 18:17:39 [WARN] ID#9 - Timeout.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part01.rar" SIZE="1048576000"
+2019-09-11 18:17:39 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 18:18:09 [WARN] request error (0x10000001c): https://pan.baidu.com/rest/2.0/membership/speeds/freqctrl?method=get 
+2019-09-11 18:18:29 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 18:19:19 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 18:20:09 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 18:21:09 [WARN] ID#8 - Timeout.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part02.rar" SIZE="1048576000"
+2019-09-11 18:21:09 [WARN] ID#9 - Timeout.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part01.rar" SIZE="1048576000"
+2019-09-11 18:21:11 [WARN] ID#7 - Timeout.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part03.rar" SIZE="1048576000"
+2019-09-11 18:21:59 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 18:22:49 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 18:23:12 [WARN] ID#8 - Timeout.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part02.rar" SIZE="1048576000"
+2019-09-11 18:23:12 [WARN] ID#9 - Timeout.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part01.rar" SIZE="1048576000"
+2019-09-11 18:23:13 [WARN] ID#7 - Timeout.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part03.rar" SIZE="1048576000"
+2019-09-11 18:23:39 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 18:24:29 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 18:26:19 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 18:27:09 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 18:27:59 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 18:28:49 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 18:29:24 [WARN] request error (0x100000006): https://pan.baidu.com/rest/2.0/membership/speeds/freqctrl?method=get 
+2019-09-11 18:29:44 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:30:04 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:30:24 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:31:08 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:32:28 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:33:12 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:33:57 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:34:41 [WARN] ID#7 - Timeout.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part03.rar" SIZE="1048576000"
+2019-09-11 18:34:41 [WARN] ID#8 - Timeout.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part02.rar" SIZE="1048576000"
+2019-09-11 18:34:41 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:34:42 [WARN] ID#9 - Timeout.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part01.rar" SIZE="1048576000"
+2019-09-11 18:35:29 [WARN] request error (0x100000006): https://pan.baidu.com/rest/2.0/membership/speeds/freqctrl?method=get 
+2019-09-11 18:36:01 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:36:45 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:37:30 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:38:14 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:39:34 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:40:18 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:40:59 [WARN] ID#7 - Timeout.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part03.rar" SIZE="1048576000"
+2019-09-11 18:40:59 [WARN] ID#8 - Timeout.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part02.rar" SIZE="1048576000"
+2019-09-11 18:40:59 [WARN] ID#9 - Timeout.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part01.rar" SIZE="1048576000"
+2019-09-11 18:41:03 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:41:15 [WARN] request error (0x100000006): https://pan.baidu.com/rest/2.0/membership/speeds/freqctrl?method=get 
+2019-09-11 18:41:47 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:43:07 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:43:51 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-09-11 18:44:28 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:44:30 [WARN] ID#7 - Network problem has occurred. cause:No connection could be made because the target machine actively refused it.
+(1) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part03.rar" SIZE="1048576000"
+2019-09-11 18:44:30 [WARN] ID#8 - Network problem has occurred. cause:No connection could be made because the target machine actively refused it.
+(1) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part02.rar" SIZE="1048576000"
+2019-09-11 18:44:34 [WARN] ID#9 - Timeout.(2) FILE="D:/BaiduNetdiskDownload/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM/3DMGAME-Tales.From.The.Borderlands.EP.1-5.CHS.Repack-3DM.part01.rar" SIZE="1048576000"
+2019-09-11 18:44:52 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:45:23 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:45:48 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:46:12 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:46:37 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:47:14 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:47:38 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:48:02 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:48:27 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:48:58 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:49:22 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:49:47 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:50:11 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:50:42 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:51:07 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:51:37 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:52:01 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:52:33 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:52:57 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:53:21 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:53:46 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:54:17 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:54:41 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:55:06 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:55:34 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:56:05 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:56:30 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:56:54 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:57:18 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:57:50 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:58:18 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:58:44 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:59:09 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 18:59:40 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 19:00:04 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 19:00:29 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 19:00:53 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 19:01:24 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-11 19:51:26 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-11 23:46:41 [INFO] close main window
+2019-09-11 23:46:41 [WARN] aria2 websocket connection closed (127.0.0.1:36869), code: 1000 (Normal close), reason: aria2 shutdown
+2019-09-11 23:46:42 [INFO] websocket client stop
+2019-09-11 23:46:42 [INFO] exit

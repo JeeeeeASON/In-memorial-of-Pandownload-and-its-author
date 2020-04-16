@@ -1,0 +1,60 @@
+2019-06-07 19:05:37 [INFO] pandownload version: 2.1.0
+2019-06-07 19:05:39 [INFO] aria2 websocket connection opened (127.0.0.1:6808)
+2019-06-07 19:05:39 [INFO] aria2 version: 1.34.0
+2019-06-07 19:05:39 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-06-07 19:05:39 [INFO] create main window
+2019-06-07 19:05:39 [INFO] verify cookie (634)
+2019-06-07 19:05:41 [INFO] user login success (3694736204): 满载的菠萝
+2019-06-07 19:05:56 [WARN] ID#2 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part06.rar" SIZE="2097152000"
+2019-06-07 19:05:57 [WARN] ID#1 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part07.rar" SIZE="1414011948"
+2019-06-07 19:05:57 [WARN] ID#3 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part05.rar" SIZE="2097152000"
+2019-06-07 19:05:59 [WARN] ID#2 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part06.rar" SIZE="2097152000"
+2019-06-07 19:05:59 [WARN] ID#1 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part07.rar" SIZE="1414011948"
+2019-06-07 19:05:59 [WARN] ID#3 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part05.rar" SIZE="2097152000"
+2019-06-07 19:06:01 [WARN] ID#2 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part06.rar" SIZE="2097152000"
+2019-06-07 19:06:01 [WARN] ID#1 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part07.rar" SIZE="1414011948"
+2019-06-07 19:06:01 [WARN] ID#3 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part05.rar" SIZE="2097152000"
+2019-06-07 19:06:03 [WARN] ID#6 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part02.rar" SIZE="2097152000"
+2019-06-07 19:06:03 [WARN] ID#4 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part04.rar" SIZE="2097152000"
+2019-06-07 19:06:03 [WARN] ID#5 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part03.rar" SIZE="2097152000"
+2019-06-07 19:06:05 [WARN] ID#6 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part02.rar" SIZE="2097152000"
+2019-06-07 19:06:05 [WARN] ID#4 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part04.rar" SIZE="2097152000"
+2019-06-07 19:06:05 [WARN] ID#5 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part03.rar" SIZE="2097152000"
+2019-06-07 19:06:07 [WARN] ID#6 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part02.rar" SIZE="2097152000"
+2019-06-07 19:06:07 [WARN] ID#4 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part04.rar" SIZE="2097152000"
+2019-06-07 19:06:07 [WARN] ID#5 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part03.rar" SIZE="2097152000"
+2019-06-07 19:06:09 [WARN] ID#7 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part01.rar" SIZE="2097152000"
+2019-06-07 19:06:12 [WARN] ID#7 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part01.rar" SIZE="2097152000"
+2019-06-07 19:06:14 [WARN] ID#7 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part01.rar" SIZE="2097152000"
+2019-06-07 19:06:30 [WARN] ID#1 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/rbAtUdyLKO.jpg" SIZE="431832"
+2019-06-07 19:06:31 [WARN] ID#1 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/rbAtUdyLKO.jpg" SIZE="431832"
+2019-06-07 19:06:34 [WARN] ID#1 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/rbAtUdyLKO.jpg" SIZE="431832"
+2019-06-07 19:06:44 [WARN] ID#1 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/rbAtUdyLKO.jpg" SIZE="431832"
+2019-06-07 19:06:44 [WARN] ID#1 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/rbAtUdyLKO.jpg" SIZE="431832"
+2019-06-07 19:06:44 [WARN] ID#1 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/rbAtUdyLKO.jpg" SIZE="431832"
+2019-06-07 19:07:07 [WARN] request error (0x2ffffffec): https://pan.baidu.com/api/sharedownload {"errno":-20,"request_id":3659748933622362621,"server_time":1559905627}
+2019-06-08 02:13:17 [WARN] aria2 websocket connection closed (127.0.0.1:6808), code: 1006 (Abnormal close), reason: 

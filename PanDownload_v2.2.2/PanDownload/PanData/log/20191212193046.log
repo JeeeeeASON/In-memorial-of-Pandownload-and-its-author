@@ -1,0 +1,9 @@
+2019-12-12 19:30:47 [INFO] pandownload version: 2.1.3
+2019-12-12 19:30:48 [INFO] aria2 websocket connection opened (127.0.0.1:36852)
+2019-12-12 19:30:48 [INFO] aria2 version: 1.34.0
+2019-12-12 19:30:48 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36852/jsonrpc
+2019-12-12 19:30:48 [INFO] create main window
+2019-12-12 19:30:48 [INFO] verify cookie (635)
+2019-12-12 19:30:50 [INFO] user login success (3694736204): 满载的菠萝
+2019-12-12 19:57:18 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":8020806342128444867}
+2019-12-12 23:23:17 [WARN] aria2 websocket connection closed (127.0.0.1:36852), code: 1006 (Abnormal close), reason: 

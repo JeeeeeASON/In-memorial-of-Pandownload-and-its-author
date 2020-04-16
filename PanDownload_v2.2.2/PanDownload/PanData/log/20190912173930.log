@@ -1,0 +1,17 @@
+2019-09-12 17:39:30 [INFO] pandownload version: 2.1.3
+2019-09-12 17:39:32 [INFO] aria2 websocket connection opened (127.0.0.1:36995)
+2019-09-12 17:39:32 [INFO] aria2 version: 1.34.0
+2019-09-12 17:39:32 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36995/jsonrpc
+2019-09-12 17:39:32 [INFO] create main window
+2019-09-12 17:39:32 [INFO] verify cookie (637)
+2019-09-12 17:39:35 [INFO] user login success (3694736204): 满载的菠萝
+2019-09-12 17:42:48 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-12 17:43:14 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-12 17:43:39 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-12 17:44:03 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-12 17:44:48 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 
+2019-09-12 18:13:09 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2019-09-12 19:02:27 [INFO] close main window
+2019-09-12 19:02:27 [WARN] aria2 websocket connection closed (127.0.0.1:36995), code: 1000 (Normal close), reason: aria2 shutdown
+2019-09-12 19:02:28 [INFO] websocket client stop
+2019-09-12 19:02:28 [INFO] exit

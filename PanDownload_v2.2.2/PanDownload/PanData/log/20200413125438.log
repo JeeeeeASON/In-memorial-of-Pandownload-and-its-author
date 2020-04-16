@@ -1,0 +1,29 @@
+2020-04-13 12:54:39 [INFO] pandownload version: 2.2.2
+2020-04-13 12:54:40 [INFO] aria2 websocket connection opened (127.0.0.1:36895)
+2020-04-13 12:54:40 [INFO] aria2 version: 1.35.1
+2020-04-13 12:54:40 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36895/jsonrpc
+2020-04-13 12:54:40 [INFO] create main window
+2020-04-13 12:54:40 [INFO] verify cookie (628)
+2020-04-13 12:54:43 [INFO] user login success (3694736204): 满载的菠萝
+2020-04-13 12:55:39 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-04-13 12:56:21 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-04-13 12:59:12 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-04-13 13:00:21 [WARN] ID#4 - [CURL-EASY][OPERATION_TIMEDOUT] Timeout was reached (28)(-1) FILE="D:/BaiduNetdiskDownload/[Potato mine] Super Assistant Momo-tan!/2)ちょーれつ！お世話係編.mp4" SIZE="783205589"
+2020-04-13 13:00:52 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-04-13 13:05:39 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-04-13 13:07:05 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-04-13 13:07:55 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-04-13 13:08:22 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-04-13 13:09:31 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-04-13 13:10:02 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-04-13 13:10:40 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-04-13 13:11:14 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-04-13 13:11:40 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-04-13 13:12:08 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-04-13 13:13:06 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-04-13 13:15:26 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-04-13 13:16:05 [WARN] request error (0x100000038): https://pan.baidu.com/api/quota 
+2020-04-13 13:18:50 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-04-13 13:20:58 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-04-13 13:22:06 [WARN] request error (0x100000023): https://pan.baidu.com/api/quota 
+2020-04-13 13:23:20 [WARN] request error (0x100000023): https://pan.baidu.com/api/report/user 

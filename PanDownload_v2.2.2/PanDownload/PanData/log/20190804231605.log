@@ -1,0 +1,57 @@
+2019-08-04 23:16:05 [INFO] pandownload version: 2.1.2
+2019-08-04 23:16:11 [INFO] aria2 websocket connection opened (127.0.0.1:36982)
+2019-08-04 23:16:11 [INFO] aria2 version: 1.34.0
+2019-08-04 23:16:11 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36982/jsonrpc
+2019-08-04 23:16:11 [INFO] create main window
+2019-08-04 23:16:11 [INFO] verify cookie (637)
+2019-08-04 23:16:14 [INFO] user login success (3694736204): 满载的菠萝
+2019-08-04 23:17:15 [WARN] ID#15 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/16-杉本女教练.rar" SIZE="2004226893"
+2019-08-04 23:17:15 [WARN] ID#19 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/13-JY检查.rar" SIZE="293366858"
+2019-08-04 23:17:15 [WARN] ID#20 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/12-厕所清洁.rar" SIZE="273784083"
+2019-08-04 23:17:15 [WARN] ID#21 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/11-披萨外卖.rar" SIZE="334033215"
+2019-08-04 23:17:15 [WARN] ID#22 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/10-衫本女医.rar" SIZE="188609994"
+2019-08-04 23:17:15 [WARN] ID#15 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/16-杉本女教练.rar" SIZE="2004226893"
+2019-08-04 23:17:15 [WARN] ID#19 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/13-JY检查.rar" SIZE="293366858"
+2019-08-04 23:17:15 [WARN] ID#20 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/12-厕所清洁.rar" SIZE="273784083"
+2019-08-04 23:17:16 [WARN] ID#21 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/11-披萨外卖.rar" SIZE="334033215"
+2019-08-04 23:17:16 [WARN] ID#22 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/10-衫本女医.rar" SIZE="188609994"
+2019-08-04 23:17:16 [WARN] ID#15 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/16-杉本女教练.rar" SIZE="2004226893"
+2019-08-04 23:17:16 [WARN] ID#19 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/13-JY检查.rar" SIZE="293366858"
+2019-08-04 23:17:16 [WARN] ID#20 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/12-厕所清洁.rar" SIZE="273784083"
+2019-08-04 23:17:16 [WARN] ID#21 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/11-披萨外卖.rar" SIZE="334033215"
+2019-08-04 23:17:16 [WARN] ID#22 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/Umemaro视频合集/10-衫本女医.rar" SIZE="188609994"
+2019-08-04 23:18:02 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":5008972737164291729}
+2019-08-04 23:28:19 [WARN] ID#25 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/13-JY检查.rar" SIZE="293366858"
+2019-08-04 23:34:32 [WARN] ID#25 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/13-JY检查.rar" SIZE="293366858"
+2019-08-04 23:39:00 [WARN] ID#25 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/13-JY检查.rar" SIZE="293366858"
+2019-08-04 23:39:46 [WARN] ID#26 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/12-厕所清洁.rar" SIZE="273784083"
+2019-08-04 23:47:37 [WARN] ID#26 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/12-厕所清洁.rar" SIZE="273784083"
+2019-08-04 23:48:25 [WARN] ID#27 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/11-披萨外卖.rar" SIZE="334033215"
+2019-08-04 23:48:51 [WARN] ID#28 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/10-衫本女医.rar" SIZE="188609994"
+2019-08-04 23:48:53 [WARN] ID#27 - No URI available.(22) FILE="D:/BaiduNetdiskDownload/11-披萨外卖.rar" SIZE="334033215"
+2019-08-04 23:48:54 [WARN] ID#27 - The response status is not successful. status=403(22) FILE="D:/BaiduNetdiskDownload/11-披萨外卖.rar" SIZE="334033215"
+2019-08-04 23:57:06 [WARN] ID#26 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/12-厕所清洁.rar" SIZE="273784083"
+2019-08-04 23:57:23 [WARN] ID#28 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/10-衫本女医.rar" SIZE="188609994"
+2019-08-05 00:02:14 [WARN] ID#28 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/10-衫本女医.rar" SIZE="188609994"
+2019-08-05 01:13:32 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":5010833062052434643}
+2019-08-05 09:00:16 [WARN] ID#25 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/13-JY检查.rar" SIZE="293366858"
+2019-08-05 09:00:16 [WARN] ID#26 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/12-厕所清洁.rar" SIZE="273784083"
+2019-08-05 09:00:16 [WARN] ID#27 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/11-披萨外卖.rar" SIZE="334033215"
+2019-08-05 09:00:17 [WARN] ID#28 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/10-衫本女医.rar" SIZE="188609994"
+2019-08-05 09:00:17 [WARN] ID#25 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/13-JY检查.rar" SIZE="293366858"
+2019-08-05 09:00:17 [WARN] ID#26 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/12-厕所清洁.rar" SIZE="273784083"
+2019-08-05 09:00:17 [WARN] ID#27 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/11-披萨外卖.rar" SIZE="334033215"
+2019-08-05 09:00:17 [WARN] ID#28 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/10-衫本女医.rar" SIZE="188609994"
+2019-08-05 09:00:17 [WARN] ID#25 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/13-JY检查.rar" SIZE="293366858"
+2019-08-05 09:00:17 [WARN] ID#26 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/12-厕所清洁.rar" SIZE="273784083"
+2019-08-05 09:00:17 [WARN] ID#27 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/11-披萨外卖.rar" SIZE="334033215"
+2019-08-05 09:00:17 [WARN] ID#28 - 下载链接过期或系统时间不正确，请删除任务重新下载(-5) FILE="D:/BaiduNetdiskDownload/10-衫本女医.rar" SIZE="188609994"
+2019-08-05 09:00:37 [WARN] request error (0x200000070): https://pan.baidu.com/api/sharedownload {"errno":112,"request_id":5018357169056616986,"server_time":1564966837}
+2019-08-05 09:03:24 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-08-05 09:03:55 [WARN] request error (0x100000006): https://pan.baidu.com/api/quota 
+2019-08-05 09:06:48 [WARN] ID#3 - No URI available.(22) FILE="D:/BaiduNetdiskDownload/11-披萨外卖.rar" SIZE="334033215"
+2019-08-05 09:06:57 [WARN] ID#1 - No URI available.(22) FILE="D:/BaiduNetdiskDownload/13-JY检查.rar" SIZE="293366858"
+2019-08-05 09:27:09 [INFO] close main window
+2019-08-05 09:27:09 [WARN] aria2 websocket connection closed (127.0.0.1:36982), code: 1000 (Normal close), reason: aria2 shutdown
+2019-08-05 09:27:10 [INFO] websocket client stop
+2019-08-05 09:27:10 [INFO] exit

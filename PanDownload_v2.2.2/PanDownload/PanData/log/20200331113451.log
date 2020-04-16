@@ -1,0 +1,10 @@
+2020-03-31 11:34:51 [INFO] pandownload version: 2.2.2
+2020-03-31 11:34:53 [INFO] aria2 websocket connection opened (127.0.0.1:36973)
+2020-03-31 11:34:53 [INFO] aria2 version: 1.35.1
+2020-03-31 11:34:53 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36973/jsonrpc
+2020-03-31 11:34:53 [INFO] create main window
+2020-03-31 11:34:53 [INFO] verify cookie (628)
+2020-03-31 11:34:58 [INFO] user login success (3694736204): 满载的菠萝
+2020-03-31 14:15:58 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":2101139161594205930}
+2020-03-31 14:48:42 [WARN] request error (0x10000001c): https://pan.baidu.com/api/quota 
+2020-03-31 20:59:02 [WARN] request error (0x100000007): https://pan.baidu.com/api/quota 

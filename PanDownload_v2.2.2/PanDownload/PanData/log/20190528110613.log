@@ -1,0 +1,24 @@
+2019-05-28 11:06:13 [INFO] pandownload version: 2.1.0
+2019-05-28 11:06:16 [INFO] aria2 websocket connection opened (127.0.0.1:6808)
+2019-05-28 11:06:16 [INFO] aria2 version: 1.34.0
+2019-05-28 11:06:16 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-05-28 11:06:29 [INFO] create main window
+2019-05-28 11:07:53 [WARN] ID#1 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/COD11/3DMGAME-Call.of.Duty.Advanced.Warfare.Day.Zero.Edition.Cracked-3DM.part41.rar" SIZE="363094266"
+2019-05-28 11:10:57 [WARN] ID#1 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/COD11/3DMGAME-Call.of.Duty.Advanced.Warfare.Day.Zero.Edition.Cracked-3DM.part41.rar" SIZE="363094266"
+2019-05-28 11:13:11 [WARN] ID#2 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/COD11/3DMGAME-Call.of.Duty.Advanced.Warfare.Day.Zero.Edition.Cracked-3DM.part40.rar" SIZE="1048576000"
+2019-05-28 11:13:11 [WARN] ID#1 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/COD11/3DMGAME-Call.of.Duty.Advanced.Warfare.Day.Zero.Edition.Cracked-3DM.part41.rar" SIZE="363094266"
+2019-05-28 11:17:24 [WARN] ID#1 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/COD11/3DMGAME-Call.of.Duty.Advanced.Warfare.Day.Zero.Edition.Cracked-3DM.part41.rar" SIZE="363094266"
+2019-05-28 11:18:48 [WARN] ID#1 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/COD11/3DMGAME-Call.of.Duty.Advanced.Warfare.Day.Zero.Edition.Cracked-3DM.part41.rar" SIZE="363094266"
+2019-05-28 11:19:35 [WARN] ID#1 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/COD11/3DMGAME-Call.of.Duty.Advanced.Warfare.Day.Zero.Edition.Cracked-3DM.part41.rar" SIZE="363094266"
+2019-05-28 12:01:31 [WARN] ID#38 - The response status is not successful. status=403(22) FILE="D:/BaiduNetdiskDownload/COD11/3DMGAME-Call.of.Duty.Advanced.Warfare.Day.Zero.Edition.Cracked-3DM.part04.rar" SIZE="1048576000"
+2019-05-28 12:04:23 [WARN] ID#27 - No URI available.(2) FILE="D:/BaiduNetdiskDownload/COD11/3DMGAME-Call.of.Duty.Advanced.Warfare.Day.Zero.Edition.Cracked-3DM.part15.rar" SIZE="1048576000"
+2019-05-28 12:09:03 [WARN] ID#42 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/3DMGAME-Call.of.Duty.Advanced.Warfare.Day.Zero.Edition.Cracked-3DM.part41.rar" SIZE="363094266"
+2019-05-28 12:09:03 [WARN] ID#42 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/3DMGAME-Call.of.Duty.Advanced.Warfare.Day.Zero.Edition.Cracked-3DM.part41.rar" SIZE="363094266"
+2019-05-28 12:09:04 [WARN] ID#42 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/3DMGAME-Call.of.Duty.Advanced.Warfare.Day.Zero.Edition.Cracked-3DM.part41.rar" SIZE="363094266"
+2019-05-28 12:35:46 [WARN] ID#42 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/3DMGAME-Call.of.Duty.Advanced.Warfare.Day.Zero.Edition.Cracked-3DM.part41.rar" SIZE="363094266"
+2019-05-28 12:35:46 [WARN] ID#42 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/3DMGAME-Call.of.Duty.Advanced.Warfare.Day.Zero.Edition.Cracked-3DM.part41.rar" SIZE="363094266"
+2019-05-28 12:35:47 [WARN] ID#42 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/3DMGAME-Call.of.Duty.Advanced.Warfare.Day.Zero.Edition.Cracked-3DM.part41.rar" SIZE="363094266"
+2019-05-28 12:36:21 [INFO] close main window
+2019-05-28 12:36:21 [WARN] aria2 websocket connection closed (127.0.0.1:6808), code: 1000 (Normal close), reason: aria2 shutdown
+2019-05-28 12:36:22 [INFO] websocket client stop
+2019-05-28 12:36:22 [INFO] exit

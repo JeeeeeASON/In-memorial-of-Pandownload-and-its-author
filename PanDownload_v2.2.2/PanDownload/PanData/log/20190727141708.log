@@ -1,0 +1,8 @@
+2019-07-27 14:17:08 [INFO] pandownload version: 2.1.2
+2019-07-27 14:17:10 [INFO] aria2 websocket connection opened (127.0.0.1:36998)
+2019-07-27 14:17:10 [INFO] aria2 version: 1.34.0
+2019-07-27 14:17:10 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36998/jsonrpc
+2019-07-27 14:17:10 [INFO] create main window
+2019-07-27 14:17:10 [INFO] verify cookie (636)
+2019-07-27 14:17:12 [INFO] user login success (3694736204): 满载的菠萝
+2019-07-27 18:23:38 [WARN] aria2 websocket connection closed (127.0.0.1:36998), code: 1006 (Abnormal close), reason: 

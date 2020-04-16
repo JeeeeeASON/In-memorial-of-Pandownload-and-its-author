@@ -1,0 +1,310 @@
+2019-06-07 11:26:23 [INFO] pandownload version: 2.1.0
+2019-06-07 11:26:26 [INFO] aria2 websocket connection opened (127.0.0.1:6808)
+2019-06-07 11:26:26 [INFO] aria2 version: 1.34.0
+2019-06-07 11:26:26 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-06-07 11:26:26 [INFO] create main window
+2019-06-07 11:26:26 [INFO] verify cookie (634)
+2019-06-07 11:26:32 [INFO] user login success (3694736204): 满载的菠萝
+2019-06-07 12:44:35 [WARN] request error (0x200000001): https://pan.baidu.com/api/quota {"errno":1,"request_id":3653586644487781539}
+2019-06-07 18:43:20 [WARN] ID#12 - No URI available.(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/H{%K[Y%EE3$}T4J)D)BK`41.png" SIZE="1452882"
+2019-06-07 18:43:22 [WARN] ID#12 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/H{%K[Y%EE3$}T4J)D)BK`41.png" SIZE="1452882"
+2019-06-07 18:43:24 [WARN] ID#12 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/H{%K[Y%EE3$}T4J)D)BK`41.png" SIZE="1452882"
+2019-06-07 18:43:26 [WARN] ID#13 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/HSY29F4W]GB_O`YFVSLX~IJ.png" SIZE="1423912"
+2019-06-07 18:43:28 [WARN] ID#13 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/HSY29F4W]GB_O`YFVSLX~IJ.png" SIZE="1423912"
+2019-06-07 18:43:29 [WARN] ID#13 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/HSY29F4W]GB_O`YFVSLX~IJ.png" SIZE="1423912"
+2019-06-07 18:43:31 [WARN] ID#14 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/EK$09%4A_2K_QKQ8PR59)DE.png" SIZE="942310"
+2019-06-07 18:43:33 [WARN] ID#14 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/EK$09%4A_2K_QKQ8PR59)DE.png" SIZE="942310"
+2019-06-07 18:43:36 [WARN] ID#14 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/EK$09%4A_2K_QKQ8PR59)DE.png" SIZE="942310"
+2019-06-07 18:43:37 [WARN] ID#15 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/D$6$RR)}ZJ}N0[3RZ(K[L0Q.png" SIZE="1278102"
+2019-06-07 18:43:37 [WARN] ID#16 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/B7QB1}U(7XG~A{1$@__L$9E.png" SIZE="1391351"
+2019-06-07 18:43:39 [WARN] ID#15 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/D$6$RR)}ZJ}N0[3RZ(K[L0Q.png" SIZE="1278102"
+2019-06-07 18:43:39 [WARN] ID#16 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/B7QB1}U(7XG~A{1$@__L$9E.png" SIZE="1391351"
+2019-06-07 18:43:41 [WARN] ID#15 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/D$6$RR)}ZJ}N0[3RZ(K[L0Q.png" SIZE="1278102"
+2019-06-07 18:43:41 [WARN] ID#16 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/B7QB1}U(7XG~A{1$@__L$9E.png" SIZE="1391351"
+2019-06-07 18:43:42 [WARN] ID#17 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/@9FM53]QQ@8~{6J`XCY}}ZS.png" SIZE="308828"
+2019-06-07 18:43:43 [WARN] ID#11 - No URI available.(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/I3JQGFWI~EAUR]CO}(24OL1.png" SIZE="973209"
+2019-06-07 18:43:43 [WARN] ID#18 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/25}TIQT%8CS9G`LP@[P18EN.png" SIZE="1283124"
+2019-06-07 18:43:44 [WARN] ID#17 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/@9FM53]QQ@8~{6J`XCY}}ZS.png" SIZE="308828"
+2019-06-07 18:43:45 [WARN] ID#11 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/I3JQGFWI~EAUR]CO}(24OL1.png" SIZE="973209"
+2019-06-07 18:43:45 [WARN] ID#18 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/25}TIQT%8CS9G`LP@[P18EN.png" SIZE="1283124"
+2019-06-07 18:43:45 [WARN] ID#17 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/@9FM53]QQ@8~{6J`XCY}}ZS.png" SIZE="308828"
+2019-06-07 18:43:47 [WARN] ID#11 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/I3JQGFWI~EAUR]CO}(24OL1.png" SIZE="973209"
+2019-06-07 18:43:47 [WARN] ID#18 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/25}TIQT%8CS9G`LP@[P18EN.png" SIZE="1283124"
+2019-06-07 18:43:47 [WARN] ID#19 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/)WA{F6OF9Y0QSCETSO06`_Y.png" SIZE="542168"
+2019-06-07 18:43:50 [WARN] ID#20 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/(C}~AVWE0)NCL]$E_2H4MB3.png" SIZE="402420"
+2019-06-07 18:43:50 [WARN] ID#19 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/)WA{F6OF9Y0QSCETSO06`_Y.png" SIZE="542168"
+2019-06-07 18:43:50 [WARN] ID#21 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/%8FAOU[S55]2Y[G(E7O1%@0.png" SIZE="533107"
+2019-06-07 18:43:52 [WARN] ID#20 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/(C}~AVWE0)NCL]$E_2H4MB3.png" SIZE="402420"
+2019-06-07 18:43:52 [WARN] ID#19 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/)WA{F6OF9Y0QSCETSO06`_Y.png" SIZE="542168"
+2019-06-07 18:43:52 [WARN] ID#21 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/%8FAOU[S55]2Y[G(E7O1%@0.png" SIZE="533107"
+2019-06-07 18:43:54 [WARN] ID#22 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/解压密码 下载前必看.zip" SIZE="290286"
+2019-06-07 18:43:54 [WARN] ID#20 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/(C}~AVWE0)NCL]$E_2H4MB3.png" SIZE="402420"
+2019-06-07 18:43:54 [WARN] ID#21 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/%8FAOU[S55]2Y[G(E7O1%@0.png" SIZE="533107"
+2019-06-07 18:43:57 [WARN] ID#22 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/解压密码 下载前必看.zip" SIZE="290286"
+2019-06-07 18:50:58 [WARN] ID#24 - No URI available.(24) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part06.rar" SIZE="2097152000"
+2019-06-07 18:51:00 [WARN] ID#11 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/I3JQGFWI~EAUR]CO}(24OL1.png" SIZE="973209"
+2019-06-07 18:51:02 [WARN] ID#11 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/I3JQGFWI~EAUR]CO}(24OL1.png" SIZE="973209"
+2019-06-07 18:51:05 [WARN] ID#11 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/I3JQGFWI~EAUR]CO}(24OL1.png" SIZE="973209"
+2019-06-07 18:51:06 [WARN] ID#12 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/H{%K[Y%EE3$}T4J)D)BK`41.png" SIZE="1452882"
+2019-06-07 18:51:07 [WARN] ID#12 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/H{%K[Y%EE3$}T4J)D)BK`41.png" SIZE="1452882"
+2019-06-07 18:51:09 [WARN] ID#12 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/H{%K[Y%EE3$}T4J)D)BK`41.png" SIZE="1452882"
+2019-06-07 18:51:11 [WARN] ID#13 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/HSY29F4W]GB_O`YFVSLX~IJ.png" SIZE="1423912"
+2019-06-07 18:51:12 [WARN] ID#25 - No URI available.(24) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part05.rar" SIZE="2097152000"
+2019-06-07 18:51:14 [WARN] ID#13 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/HSY29F4W]GB_O`YFVSLX~IJ.png" SIZE="1423912"
+2019-06-07 18:51:14 [WARN] ID#14 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/EK$09%4A_2K_QKQ8PR59)DE.png" SIZE="942310"
+2019-06-07 18:51:16 [WARN] ID#13 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/HSY29F4W]GB_O`YFVSLX~IJ.png" SIZE="1423912"
+2019-06-07 18:51:16 [WARN] ID#14 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/EK$09%4A_2K_QKQ8PR59)DE.png" SIZE="942310"
+2019-06-07 18:51:18 [WARN] ID#14 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/EK$09%4A_2K_QKQ8PR59)DE.png" SIZE="942310"
+2019-06-07 18:51:18 [WARN] ID#15 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/D$6$RR)}ZJ}N0[3RZ(K[L0Q.png" SIZE="1278102"
+2019-06-07 18:51:20 [WARN] ID#15 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/D$6$RR)}ZJ}N0[3RZ(K[L0Q.png" SIZE="1278102"
+2019-06-07 18:51:20 [WARN] ID#16 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/B7QB1}U(7XG~A{1$@__L$9E.png" SIZE="1391351"
+2019-06-07 18:51:22 [WARN] ID#15 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/D$6$RR)}ZJ}N0[3RZ(K[L0Q.png" SIZE="1278102"
+2019-06-07 18:51:22 [WARN] ID#16 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/B7QB1}U(7XG~A{1$@__L$9E.png" SIZE="1391351"
+2019-06-07 18:51:24 [WARN] ID#16 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/B7QB1}U(7XG~A{1$@__L$9E.png" SIZE="1391351"
+2019-06-07 18:51:24 [WARN] ID#17 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/@9FM53]QQ@8~{6J`XCY}}ZS.png" SIZE="308828"
+2019-06-07 18:51:26 [WARN] ID#17 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/@9FM53]QQ@8~{6J`XCY}}ZS.png" SIZE="308828"
+2019-06-07 18:51:28 [WARN] ID#18 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/25}TIQT%8CS9G`LP@[P18EN.png" SIZE="1283124"
+2019-06-07 18:51:28 [WARN] ID#23 - No URI available.(24) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part07.rar" SIZE="1414011948"
+2019-06-07 18:51:29 [WARN] ID#17 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/@9FM53]QQ@8~{6J`XCY}}ZS.png" SIZE="308828"
+2019-06-07 18:51:30 [WARN] ID#18 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/25}TIQT%8CS9G`LP@[P18EN.png" SIZE="1283124"
+2019-06-07 18:51:30 [WARN] ID#20 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/(C}~AVWE0)NCL]$E_2H4MB3.png" SIZE="402420"
+2019-06-07 18:51:30 [WARN] ID#19 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/)WA{F6OF9Y0QSCETSO06`_Y.png" SIZE="542168"
+2019-06-07 18:51:32 [WARN] ID#18 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/25}TIQT%8CS9G`LP@[P18EN.png" SIZE="1283124"
+2019-06-07 18:51:32 [WARN] ID#20 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/(C}~AVWE0)NCL]$E_2H4MB3.png" SIZE="402420"
+2019-06-07 18:51:32 [WARN] ID#19 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/)WA{F6OF9Y0QSCETSO06`_Y.png" SIZE="542168"
+2019-06-07 18:51:34 [WARN] ID#20 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/(C}~AVWE0)NCL]$E_2H4MB3.png" SIZE="402420"
+2019-06-07 18:51:34 [WARN] ID#19 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/)WA{F6OF9Y0QSCETSO06`_Y.png" SIZE="542168"
+2019-06-07 18:51:34 [WARN] ID#21 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/%8FAOU[S55]2Y[G(E7O1%@0.png" SIZE="533107"
+2019-06-07 18:51:36 [WARN] ID#24 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part06.rar" SIZE="2097152000"
+2019-06-07 18:51:36 [WARN] ID#23 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part07.rar" SIZE="1414011948"
+2019-06-07 18:51:36 [WARN] ID#21 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/%8FAOU[S55]2Y[G(E7O1%@0.png" SIZE="533107"
+2019-06-07 18:51:38 [WARN] ID#24 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part06.rar" SIZE="2097152000"
+2019-06-07 18:51:38 [WARN] ID#23 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part07.rar" SIZE="1414011948"
+2019-06-07 18:51:38 [WARN] ID#21 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/%8FAOU[S55]2Y[G(E7O1%@0.png" SIZE="533107"
+2019-06-07 18:51:41 [WARN] ID#26 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part04.rar" SIZE="2097152000"
+2019-06-07 18:51:41 [WARN] ID#25 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part05.rar" SIZE="2097152000"
+2019-06-07 18:51:41 [WARN] ID#27 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part03.rar" SIZE="2097152000"
+2019-06-07 18:51:43 [WARN] ID#26 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part04.rar" SIZE="2097152000"
+2019-06-07 18:51:43 [WARN] ID#25 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part05.rar" SIZE="2097152000"
+2019-06-07 18:51:43 [WARN] ID#27 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part03.rar" SIZE="2097152000"
+2019-06-07 18:51:45 [WARN] ID#26 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part04.rar" SIZE="2097152000"
+2019-06-07 18:51:45 [WARN] ID#27 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part03.rar" SIZE="2097152000"
+2019-06-07 18:51:45 [WARN] ID#28 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part02.rar" SIZE="2097152000"
+2019-06-07 18:51:47 [WARN] ID#28 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part02.rar" SIZE="2097152000"
+2019-06-07 18:51:47 [WARN] ID#29 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part01.rar" SIZE="2097152000"
+2019-06-07 18:51:49 [WARN] ID#28 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part02.rar" SIZE="2097152000"
+2019-06-07 18:51:49 [WARN] ID#29 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part01.rar" SIZE="2097152000"
+2019-06-07 18:51:51 [WARN] ID#29 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part01.rar" SIZE="2097152000"
+2019-06-07 19:04:19 [WARN] ID#13 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/HSY29F4W]GB_O`YFVSLX~IJ.png" SIZE="1423912"
+2019-06-07 19:04:19 [WARN] ID#11 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/I3JQGFWI~EAUR]CO}(24OL1.png" SIZE="973209"
+2019-06-07 19:04:20 [WARN] ID#12 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/H{%K[Y%EE3$}T4J)D)BK`41.png" SIZE="1452882"
+2019-06-07 19:04:22 [WARN] ID#13 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/HSY29F4W]GB_O`YFVSLX~IJ.png" SIZE="1423912"
+2019-06-07 19:04:22 [WARN] ID#11 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/I3JQGFWI~EAUR]CO}(24OL1.png" SIZE="973209"
+2019-06-07 19:04:22 [WARN] ID#12 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/H{%K[Y%EE3$}T4J)D)BK`41.png" SIZE="1452882"
+2019-06-07 19:04:24 [WARN] ID#13 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/HSY29F4W]GB_O`YFVSLX~IJ.png" SIZE="1423912"
+2019-06-07 19:04:24 [WARN] ID#11 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/I3JQGFWI~EAUR]CO}(24OL1.png" SIZE="973209"
+2019-06-07 19:04:24 [WARN] ID#12 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/H{%K[Y%EE3$}T4J)D)BK`41.png" SIZE="1452882"
+2019-06-07 19:04:25 [WARN] ID#14 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/EK$09%4A_2K_QKQ8PR59)DE.png" SIZE="942310"
+2019-06-07 19:04:25 [WARN] ID#15 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/D$6$RR)}ZJ}N0[3RZ(K[L0Q.png" SIZE="1278102"
+2019-06-07 19:04:25 [WARN] ID#16 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/B7QB1}U(7XG~A{1$@__L$9E.png" SIZE="1391351"
+2019-06-07 19:04:27 [WARN] ID#14 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/EK$09%4A_2K_QKQ8PR59)DE.png" SIZE="942310"
+2019-06-07 19:04:27 [WARN] ID#15 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/D$6$RR)}ZJ}N0[3RZ(K[L0Q.png" SIZE="1278102"
+2019-06-07 19:04:27 [WARN] ID#16 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/B7QB1}U(7XG~A{1$@__L$9E.png" SIZE="1391351"
+2019-06-07 19:04:29 [WARN] ID#14 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/EK$09%4A_2K_QKQ8PR59)DE.png" SIZE="942310"
+2019-06-07 19:04:29 [WARN] ID#15 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/D$6$RR)}ZJ}N0[3RZ(K[L0Q.png" SIZE="1278102"
+2019-06-07 19:04:29 [WARN] ID#16 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/B7QB1}U(7XG~A{1$@__L$9E.png" SIZE="1391351"
+2019-06-07 19:04:31 [WARN] ID#18 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/25}TIQT%8CS9G`LP@[P18EN.png" SIZE="1283124"
+2019-06-07 19:04:31 [WARN] ID#17 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/@9FM53]QQ@8~{6J`XCY}}ZS.png" SIZE="308828"
+2019-06-07 19:04:31 [WARN] ID#19 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/)WA{F6OF9Y0QSCETSO06`_Y.png" SIZE="542168"
+2019-06-07 19:04:34 [WARN] ID#17 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/@9FM53]QQ@8~{6J`XCY}}ZS.png" SIZE="308828"
+2019-06-07 19:04:34 [WARN] ID#19 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/)WA{F6OF9Y0QSCETSO06`_Y.png" SIZE="542168"
+2019-06-07 19:04:36 [WARN] ID#18 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/25}TIQT%8CS9G`LP@[P18EN.png" SIZE="1283124"
+2019-06-07 19:04:36 [WARN] ID#17 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/@9FM53]QQ@8~{6J`XCY}}ZS.png" SIZE="308828"
+2019-06-07 19:04:36 [WARN] ID#19 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/)WA{F6OF9Y0QSCETSO06`_Y.png" SIZE="542168"
+2019-06-07 19:04:38 [WARN] ID#18 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/25}TIQT%8CS9G`LP@[P18EN.png" SIZE="1283124"
+2019-06-07 19:04:38 [WARN] ID#20 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/(C}~AVWE0)NCL]$E_2H4MB3.png" SIZE="402420"
+2019-06-07 19:04:38 [WARN] ID#21 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/%8FAOU[S55]2Y[G(E7O1%@0.png" SIZE="533107"
+2019-06-07 19:04:40 [WARN] ID#20 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/(C}~AVWE0)NCL]$E_2H4MB3.png" SIZE="402420"
+2019-06-07 19:04:40 [WARN] ID#23 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part07.rar" SIZE="1414011948"
+2019-06-07 19:04:40 [WARN] ID#21 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/%8FAOU[S55]2Y[G(E7O1%@0.png" SIZE="533107"
+2019-06-07 19:04:42 [WARN] ID#20 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/(C}~AVWE0)NCL]$E_2H4MB3.png" SIZE="402420"
+2019-06-07 19:04:42 [WARN] ID#23 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part07.rar" SIZE="1414011948"
+2019-06-07 19:04:42 [WARN] ID#21 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/游戏捏人预览/%8FAOU[S55]2Y[G(E7O1%@0.png" SIZE="533107"
+2019-06-07 19:04:44 [WARN] ID#24 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part06.rar" SIZE="2097152000"
+2019-06-07 19:04:44 [WARN] ID#23 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part07.rar" SIZE="1414011948"
+2019-06-07 19:04:44 [WARN] ID#25 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part05.rar" SIZE="2097152000"
+2019-06-07 19:04:47 [WARN] ID#26 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part04.rar" SIZE="2097152000"
+2019-06-07 19:04:49 [WARN] ID#24 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part06.rar" SIZE="2097152000"
+2019-06-07 19:04:49 [WARN] ID#26 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part04.rar" SIZE="2097152000"
+2019-06-07 19:04:49 [WARN] ID#25 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part05.rar" SIZE="2097152000"
+2019-06-07 19:04:51 [WARN] ID#24 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part06.rar" SIZE="2097152000"
+2019-06-07 19:04:51 [WARN] ID#26 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part04.rar" SIZE="2097152000"
+2019-06-07 19:04:52 [WARN] ID#25 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part05.rar" SIZE="2097152000"
+2019-06-07 19:04:53 [WARN] ID#27 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part03.rar" SIZE="2097152000"
+2019-06-07 19:04:53 [WARN] ID#28 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part02.rar" SIZE="2097152000"
+2019-06-07 19:04:54 [WARN] ID#29 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part01.rar" SIZE="2097152000"
+2019-06-07 19:04:55 [WARN] ID#27 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part03.rar" SIZE="2097152000"
+2019-06-07 19:04:56 [WARN] ID#28 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part02.rar" SIZE="2097152000"
+2019-06-07 19:04:56 [WARN] ID#29 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part01.rar" SIZE="2097152000"
+2019-06-07 19:04:58 [WARN] ID#27 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part03.rar" SIZE="2097152000"
+2019-06-07 19:04:58 [WARN] ID#28 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part02.rar" SIZE="2097152000"
+2019-06-07 19:04:58 [WARN] ID#29 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/koikatu恋爱活动5.1/Koikatu.part01.rar" SIZE="2097152000"
+2019-06-07 19:05:21 [WARN] request error (0x200000070): https://pan.baidu.com/api/sharedownload {"errno":112,"request_id":3659720264942561675,"server_time":1559905520}
+2019-06-07 19:05:25 [WARN] ID#32 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part05.rar" SIZE="2097152000"
+2019-06-07 19:05:25 [WARN] ID#31 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part06.rar" SIZE="2097152000"
+2019-06-07 19:05:25 [WARN] ID#30 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part07.rar" SIZE="1414011948"
+2019-06-07 19:05:27 [WARN] ID#31 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part06.rar" SIZE="2097152000"
+2019-06-07 19:05:29 [WARN] ID#32 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part05.rar" SIZE="2097152000"
+2019-06-07 19:05:29 [WARN] ID#31 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part06.rar" SIZE="2097152000"
+2019-06-07 19:05:31 [WARN] ID#32 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part05.rar" SIZE="2097152000"
+2019-06-07 19:05:31 [WARN] ID#33 - SSL/TLS handshake failure: Error: 给函数提供的标志无效
+(80090308)(1) FILE="D:/BaiduNetdiskDownload/Koikatu.part04.rar" SIZE="2097152000"
+2019-06-07 19:05:35 [INFO] close main window
+2019-06-07 19:05:35 [WARN] aria2 websocket connection closed (127.0.0.1:6808), code: 1000 (Normal close), reason: aria2 shutdown
+2019-06-07 19:05:36 [INFO] websocket client stop
+2019-06-07 19:05:36 [INFO] exit

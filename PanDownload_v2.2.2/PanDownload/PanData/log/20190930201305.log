@@ -1,0 +1,14 @@
+2019-09-30 20:13:05 [INFO] pandownload version: 2.1.3
+2019-09-30 20:13:06 [INFO] aria2 websocket connection opened (127.0.0.1:36928)
+2019-09-30 20:13:06 [INFO] aria2 version: 1.34.0
+2019-09-30 20:13:06 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:36928/jsonrpc
+2019-09-30 20:13:07 [INFO] create main window
+2019-09-30 20:13:07 [INFO] verify cookie (637)
+2019-09-30 20:13:10 [INFO] user login success (3694736204): 满载的菠萝
+2019-09-30 20:13:17 [WARN] ID#1 - user is not authorized, hitcode:118(-1) FILE="D:/BaiduNetdiskDownload/LSJ20190921.rar" SIZE="43402558"
+2019-09-30 20:13:17 [WARN] ID#1 - user is not authorized, hitcode:118(-1) FILE="D:/BaiduNetdiskDownload/LSJ20190921.rar" SIZE="43402558"
+2019-09-30 20:13:18 [WARN] ID#1 - user is not authorized, hitcode:118(-1) FILE="D:/BaiduNetdiskDownload/LSJ20190921.rar" SIZE="43402558"
+2019-09-30 20:13:35 [INFO] close main window
+2019-09-30 20:13:35 [WARN] aria2 websocket connection closed (127.0.0.1:36928), code: 1000 (Normal close), reason: aria2 shutdown
+2019-09-30 20:13:36 [INFO] websocket client stop
+2019-09-30 20:13:36 [INFO] exit

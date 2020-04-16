@@ -1,0 +1,11 @@
+2019-06-25 14:01:48 [INFO] pandownload version: 2.1.0
+2019-06-25 14:01:50 [INFO] aria2 websocket connection opened (127.0.0.1:6808)
+2019-06-25 14:01:50 [INFO] aria2 version: 1.34.0
+2019-06-25 14:01:50 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-06-25 14:01:50 [INFO] create main window
+2019-06-25 14:01:50 [INFO] verify cookie (638)
+2019-06-25 14:01:52 [INFO] user login success (3694736204): 满载的菠萝
+2019-06-25 14:02:26 [INFO] close main window
+2019-06-25 14:02:26 [WARN] aria2 websocket connection closed (127.0.0.1:6808), code: 1000 (Normal close), reason: aria2 shutdown
+2019-06-25 14:02:27 [INFO] websocket client stop
+2019-06-25 14:02:27 [INFO] exit

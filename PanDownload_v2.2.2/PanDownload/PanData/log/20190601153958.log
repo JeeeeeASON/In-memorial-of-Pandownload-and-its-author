@@ -1,0 +1,10 @@
+2019-06-01 15:39:58 [INFO] pandownload version: 2.1.0
+2019-06-01 15:39:59 [INFO] aria2 websocket connection opened (127.0.0.1:6808)
+2019-06-01 15:39:59 [INFO] aria2 version: 1.34.0
+2019-06-01 15:39:59 [INFO] aria2 json-rpc path: http://token:pandownload@127.0.0.1:6808/jsonrpc
+2019-06-01 15:39:59 [INFO] create main window
+2019-06-01 15:40:28 [WARN] ID#13 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/赤首の竞技场.rar" SIZE="220936060"
+2019-06-01 15:40:28 [WARN] ID#13 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/赤首の竞技场.rar" SIZE="220936060"
+2019-06-01 15:40:28 [WARN] ID#13 - 未登录网盘账号，无法下载(-4) FILE="D:/BaiduNetdiskDownload/赤首の竞技场.rar" SIZE="220936060"
+2019-06-01 15:41:21 [INFO] verify cookie (636)
+2019-06-01 15:41:24 [INFO] user login success (3694736204): 满载的菠萝
